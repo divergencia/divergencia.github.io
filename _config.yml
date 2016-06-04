@@ -16,6 +16,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "" # the base hostname & protocol for your site
 
+description2: Todos los derechos reservados
+
 # Social media profiles - feel free to add more here
 twitter_username: usuario_twitter 
 github_username: usuario_github
