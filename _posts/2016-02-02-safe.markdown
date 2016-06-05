@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Safe"
+title:  "{{ site.entrada2 }}"
 date:   2016-02-02 15:08:10 -0500
 img: img/portfolio/safe.png
 modalID: modalSafe
