@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "{{ site.entrada6 }}"
+title:  "entrada6"
 img: img/portfolio/cabin.png
 modalID: modalCabin
 ---

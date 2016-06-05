@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "{{ site.entrada4 }}"
+title:  "entrada4"
 date:   2016-02-04 15:08:10 -0500
 img: img/portfolio/circus.png
 modalID: modalCircus
